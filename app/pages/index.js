@@ -3,7 +3,7 @@ import { useTodo } from '../hooks/todo'
 import Loading from '../components/Loading'
 import TodoSection from '../components/todo/TodoSection'
 import styles from '../styles/Home.module.css'
-import { useState } from 'react'
+import {  useState  } from 'react'
 
 
 const Home = () => {
